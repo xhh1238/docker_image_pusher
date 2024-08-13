@@ -1,3 +1,4 @@
 alpine
 xhofe/alist:latest
 mzz2017/v2raya:latest
+laoyutang/clash-and-dashboard:latest
